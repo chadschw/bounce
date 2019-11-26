@@ -1,0 +1,20 @@
+html, body {
+    height: 100%;
+    overflow: hidden;
+}
+
+body {
+    /*background: url(https://);*/
+    background: linear-gradient(45deg, #000000, #202020);
+    background-position: center;
+    background-size: cover;
+    margin: 0;
+}
+
+#rect1 {
+    fill: red;
+}
+
+#rect2 {
+    fill: blue;
+}
